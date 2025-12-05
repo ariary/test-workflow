@@ -1,0 +1,1 @@
+This file simulates malicious content that should be blocked.
